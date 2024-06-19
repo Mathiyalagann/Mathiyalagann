@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Mathiyalagan
 
-#####Electronics and communication engineering student
+Electronics and communication engineering student
 
 .📚I'm undergraduate student at anna university
 
