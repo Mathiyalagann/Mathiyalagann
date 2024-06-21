@@ -10,7 +10,7 @@ Electronics and communication engineering student
 
 <h3>I code in</h3>
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>           <img height="50" width="50" src=img width="94" height="94" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>           <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   <img height="50" width="50" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>
 <h3>Tools I Use</h3>
 <img height="80" width="80" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
