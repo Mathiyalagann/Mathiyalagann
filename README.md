@@ -1,11 +1,12 @@
 ## Hi there 👋 It's me Mathiyalagan
-
-Electronics and communication engineering student
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
-.📚I'm undergraduate student at anna university 
-
-.📬How to reach me:
+<p>Electronics and Communication Engineering</p>
+<br>
+<h3>About Me</h3>
+<ol type="bullet>
+<li>📚I'm undergraduate student at anna university </li>
+<li>🔍learning : different things✨<li>
+<li>🌱I’m looking to join hands with developers</li>
+<li>📬How to reach me:</li>
 <br/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
