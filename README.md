@@ -1,5 +1,5 @@
-## Hi there 👋 It's me Mathiyalagan
-<p>Electronics and Communication Engineering</p>
+## Hi there 👋 It's me Mathiyalagan A
+<p>Electronics and Communication Engineering student</p>
 <br>
 <h3>About Me</h3>
 <ul type="bullet">
