@@ -4,7 +4,7 @@
 <h3>About Me</h3>
 <ul type="bullet">
 <li>📚I'm undergraduate student at Anna University </li>
-<li>🔍learning : different things✨
+<li>🔍learning : different thinks✨
 <li>🌱I’m looking to join hands with developers</li>
 <li>📬How to reach me:</li><br>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
