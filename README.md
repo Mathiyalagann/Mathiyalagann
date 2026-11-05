@@ -1,15 +1,18 @@
 ## Hi there 👋 I'm Mathiyalagan A  
-<p><b>Electronics and Communication Engineering Graduate | Fresher | Aspiring Embedded & PCB Engineer</b></p>
+<p><b>Electronics and Communication Engineering Graduate | PCB Design Trainee | Aspiring PCB Design Engineer</b></p>
 
 ---
 
-### 👨‍🎓 About Me  
-- 🎓 Graduate in **Electronics and Communication Engineering (ECE)** from Anna University  
-- 💡 Interested in **Embedded Systems, IOT and PCB Design**  
-- 🌱 Currently learning **verilog design, and PCB Designing basics**  
-- 🤝 Open to collaborate on projects related to **IoT, PCB Design, and web-pages**  
-- 📬 How to reach me:
+### 👨‍🎓 About Me
 
+- 🎓 Graduate in **Electronics and Communication Engineering** from Anna University.
+- 🔧 Passionate about **PCB Design, Hardware Development, and Electronic Circuit Design**.
+- ⚡ Hands-on experience in **Schematic Capture and PCB Layout Design**.
+- 📐 Skilled in **Component Footprint Creation, PCB Routing, DFM, and Gerber File Generation**.
+- 🛠️ Exploring **Multilayer PCB Design, High-Speed PCB Design**.
+- 🌱 Continuously learning and improving my PCB design and hardware development skills.
+- 🤝 Open to collaborating on **PCB Design and Electronics Projects**.
+- 📬 How to reach me:
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathiy379@gmail.com)
 
@@ -18,20 +21,27 @@
 
 ---
 
-### 💻 Skills & Technologies  
-- Programming: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-- Hardware & Design:  MATLAB, PCB Design (EasyEDA/KiCad)  
+### 💻 Skills & Technologies
+
+- **PCB Design:** Schematic Design, PCB Layout Design.
+- **Circuit Analysis:** Basic Electronic Circuit Analysis.
+- **Footprint Creation:** Custom Component Footprint Design.
+- **PCB Manufacturing:** DFM and Gerber File Generation.
+- **PCB Routing:** Component Placement and Routing.
+- **Design Verification:** DRC and ERC.  
 
 ---
 
-### 🛠 Tools I Use  
-<img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vs-code"/>  
-<img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>  
-<img width="50" height="50" src="https://img.icons8.com/color/48/github.png" alt="github"/>  
-  
+### 🛠 Tools I Use
 
-
-
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logoColor=white)
+![Cadence Allegro](https://img.shields.io/badge/Cadence_Allegro-CC0000?style=for-the-badge&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-00599C?style=for-the-badge&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ### 📊 GitHub Activity  
