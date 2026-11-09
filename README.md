@@ -56,13 +56,13 @@
 ---
 
 ### 📂 Highlight Projects  
-- 🔌 **[Regulated DC Power Supply PCB](https://github.com/YourRepoLink)** – Designed PCB using EasyEDA for stable +5V output  
-- ⚡ **[AC to DC Power Supply PCB](https://github.com/YourRepoLink)** – Transformer-based AC to DC regulated supply  
-- 🌱 **[Soil Moisture Sensor PCB](https://github.com/YourRepoLink)** – LM358-based soil monitoring circuit with analog/digital outputs  
-- ❤️ **[Heart Rate Monitoring using MAX30100 Sensor](https://github.com/YourRepoLink)** – Designed PCB using MAX30100 pulse oximeter sensor .
-- 🔫 **[Weapon Detection System](https://github.com/YourRepoLink)** – Real-time object detection project using computer vision to identify weapons.
-- 🎥 **[Real-time Thief Detection (Python + OpenCV)](https://github.com/YourRepoLink)** – Computer vision-based surveillance project  
-- 🚘 **[Automatic Number Plate Recognition (MATLAB)](https://github.com/YourRepoLink)** – ANPR system using MATLAB image processing    
+- 🧭 **[GPS_Tracker PCB](https://github.com/Mathiyalagann/GPS_Tracker_PCB)** – Designed PCB using Allegro for GPS Tracker . 
+- ⚡ **[3V3_Buck_Convertor](https://github.com/Mathiyalagann/3V3_Buck_Convertor)** – Designed PCB using Altium for Buck Convertor .
+- 🌱 **[Li-ION-Battery_charger_Circuit](https://github.com/Mathiyalagann/LI-ION-Battery-Charger-Circuit)** – Designed PCB using Kicad for Battery Management System. 
+- ❤️ **[Heart Rate Monitoring using MAX30100 Sensor](https://github.com/Mathiyalagann/MAX30100_Heart-_Rate_-Monitoring_-System)** – Designed PCB using MAX30100 pulse oximeter sensor .
+- 🔫 **[Weapon Detection System](https://github.com/Mathiyalagann/weapon-detection)** – Real-time object detection project using computer vision to identify weapons.
+- 🎥 **[Real-time Thief Detection (Python + OpenCV)](https://github.com/Mathiyalagann/Theif-detection)** – Computer vision-based surveillance project. 
+- 🚘 **[Automatic Number Plate Recognition (MATLAB)](https://github.com/Mathiyalagann/ANPR)** – ANPR system using MATLAB image processing.
 
 ---
 
